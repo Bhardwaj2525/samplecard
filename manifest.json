@@ -1,0 +1,5 @@
+{
+    "pass.json": "sha1_hash_of_pass_json",
+    "icon.png": "sha1_hash_of_icon_png",
+    "logo.png": "sha1_hash_of_logo_png"
+  }  
